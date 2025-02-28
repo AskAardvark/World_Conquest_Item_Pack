@@ -96,8 +96,8 @@ on_event("wc2_drop_pickup", function(ec)
 
 	local bonus_type = item.wc2_type
 	if bonus_type == nil then
-		local training_chance = wml.variables.wc2_config_training_chance or 2
-		local hero_chance = wml.variables.wc2_config_hero_chance or 1
+		local training_chance = wml.variables.wc2_config_training_chance or 1
+		local hero_chance = wml.variables.wc2_config_hero_chance or 2
 		local item_chance = wml.variables.wc2_config_item_chance or 2
 		local r = mathx.random(training_chance + hero_chance + item_chance)
 		if r <= training_chance then

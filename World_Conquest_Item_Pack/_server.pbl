@@ -1,9 +1,9 @@
 title="World_Conquest_Item_Pack"
 type="mod_mp"
 icon="items/box.png"
-version="1.1.1"
+version="1.1.2"
 author="Aardvark"
-description="Love World Conquest? Looking for more? This mod includes a growing list of 20+ World Conquest artifacts and trainings. New artifacts and trainings are accessible through the Wocopedia in game! Pending bug fix in Wesnoth Source Code, allows you to 'invest' in new trainings!"
+description="Love World Conquest? Looking for more? This mod includes a growing list of 20+ World Conquest artifacts and trainings. New artifacts and trainings are accessible through the Wocopedia in game! Battle For Wesnoth Version 1.19 allows you to manually 'invest' in new trainings!"
 forum_auth = true
 tags = "World Conquest","World", "Conquest", "Artifacts", "Addons", "English", "Training", "Invest", "Modification", "Multiplayer"
-secondary_authors = "TomMancy"
+secondary_authors = "TomMancy", "AskAardvark"
